@@ -1,0 +1,68 @@
+       <style> 
+body
+{
+background-image:url(fill.jpg);
+background-size:100%;
+background-repeat:repeat;
+}
+#mymenu
+{
+background-color:rgba(245,0,0,0.9);
+color:white;
+text-align:right;
+}
+#mymenu ul li
+{
+display:inline-block;
+padding:25px;
+}
+#mymenu ul li a
+{
+color:white;
+text-decoration:none;
+}
+.A
+{
+background:white;
+text-align:center;
+font-size:25px;
+line-height:30px;
+line-spacing:4px;
+}
+.U
+{
+/*background:lightcoral;*/
+text-align:left;
+font-size:20px;
+line-height:30px;
+line-spacing:4px;
+color:white;
+}
+#mymenu ul li:hover
+{
+background-color:blue;
+}
+.L
+{
+color:white;
+text-decoration:none;
+}
+table
+{
+background-color:rgba(0,0,0,0.5);
+color:white;
+box-shadow:10px 10px 10px black;
+margin-top:25px;
+}
+.B
+{
+width:80px;
+height:30px;
+background:linear-gradient(red,yellow);
+color:black;
+}
+.B:hover
+{
+background:linear-gradient(to right,red,yellow);
+}
+</style>
